@@ -161,7 +161,7 @@ img{
 .search__form__field{
     width: 297px;
     background-color: transparent;
-    background: url(../img/Oval.svg) no-repeat left 6px;
+    background: url(../img/svg/Oval.svg) no-repeat left 6px;
     background-size: 20px;
     border: none;
     border-bottom: 2px solid #BFC0C5;
@@ -254,7 +254,7 @@ img{
     text-transform: uppercase;
     text-decoration: none;
     color: #006DFE;
-    background: url(../img/Shape.svg);
+    background: url(../img/svg/Shape.svg);
     background-repeat: no-repeat;
     background-position:  95% center;
     transition: 0.2s all;
@@ -444,7 +444,7 @@ img{
     line-height: 24px;
     color: #fff;
     padding-right: 20px;
-    background: url(../img/Love.svg) no-repeat right;
+    background: url(../img/svg/Love.svg) no-repeat right;
     margin-right: 14px;
 }
 .top_card-comments{
@@ -453,7 +453,7 @@ img{
     line-height: 24px;
     color: #fff;
     padding-right: 20px;
-    background: url(../img/top_comments.svg) no-repeat right;
+    background: url(../img/svg/top_comments.svg) no-repeat right;
 }
 .top_card-text{
     font-weight: 400;
@@ -645,7 +645,7 @@ img{
         margin-right: 0;
         width: 100%;
         padding-bottom: 12px;
-        background: url(../img/Oval.svg) no-repeat left 2px;
+        background: url(../img/svg/Oval.svg) no-repeat left 2px;
     }
     .search__form__field::placeholder{
         font-size: 16px;
